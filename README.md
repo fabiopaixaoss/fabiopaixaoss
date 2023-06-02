@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabiopaixaoss/)
 
 ### Formações em andamento:
-- Desenvolvimento Web (fullstack) na Gama Academy;
+- Desenvolvimento Web (fullstack) na Gama Academy com especialização em Front-end;
 - Ciência da Computação na UNIP;
 - The Complete JavaScript Course 2023: From Zero to Expert! com Jonas Schmedtmann.
 
