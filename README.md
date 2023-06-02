@@ -8,9 +8,9 @@
 - Ciência da Computação na UNIP;
 - The Complete JavaScript Course 2023: From Zero to Expert! com Jonas Schmedtmann.
 
-![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiopaixaoss&show_icons=true&theme=gruvbox)
-## Tecnologias que eu uso: 👨‍💻
+#### Email: fabiopsousa7@gmail.com
 
+## Tecnologias que eu uso: 👨‍💻
 <div style='display: inline_block'></br>
 <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'></img>
 <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'></img>
@@ -25,8 +25,6 @@
 <img src='https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white'></img>
 </div><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiopaixaoss&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Confira alguns dos meus projetos: 
 
 - [Omma - site de Receitas](https://fabiopaixaoss.github.io/omma-site-de-receitas/home)
@@ -34,3 +32,9 @@
 - [Sound Garden - Casa de Show](https://du-previatti.github.io/soundgarden/)
 - [Landing Page - Culinária Paraense](https://fabiopaixaoss.github.io/paginaweb_html_css/)
 - [La Vie - Saúde Mental](https://documenter.getpostman.com/view/27232490/2s93eePoiJ)
+
+![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiopaixaoss&show_icons=true&theme=gruvbox)
+
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiopaixaoss&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+Apaixonado por resolver problemas e contribuir para o bem estar das pessaos. Em constante mudanças e evolução!
