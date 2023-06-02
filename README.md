@@ -27,7 +27,7 @@
 
 ## Confira alguns dos meus projetos: 
 
-- [Omma - site de Receitas](https://fabiopaixaoss.github.io/omma-site-de-receitas/home)
+- [Omma - Site de Receitas](https://fabiopaixaoss.github.io/omma-site-de-receitas/home)
 - [DinDin - Educação Financeira](https://bruunogoncalves.github.io/dindin-xp50/inicio.html)
 - [Sound Garden - Casa de Show](https://du-previatti.github.io/soundgarden/)
 - [Landing Page - Culinária Paraense](https://fabiopaixaoss.github.io/paginaweb_html_css/)
